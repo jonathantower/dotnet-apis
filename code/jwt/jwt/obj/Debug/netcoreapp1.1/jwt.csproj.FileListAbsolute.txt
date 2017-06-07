@@ -1,0 +1,9 @@
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.deps.json
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.runtimeconfig.json
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.runtimeconfig.dev.json
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.dll
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.pdb
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\obj\Debug\netcoreapp1.1\jwt.csprojResolveAssemblyReference.cache
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\obj\Debug\netcoreapp1.1\jwt.AssemblyInfo.cs
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\obj\Debug\netcoreapp1.1\jwt.dll
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\jwt\jwt\obj\Debug\netcoreapp1.1\jwt.pdb

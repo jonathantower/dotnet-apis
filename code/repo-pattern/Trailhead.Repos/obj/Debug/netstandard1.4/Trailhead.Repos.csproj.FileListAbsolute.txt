@@ -1,0 +1,3 @@
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\repo-pattern\Trailhead.Repos\bin\Debug\netstandard1.4\Trailhead.Repos.deps.json
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\repo-pattern\Trailhead.Repos\obj\Debug\netstandard1.4\Trailhead.Repos.csprojResolveAssemblyReference.cache
+C:\Users\jtower\Documents\Speaking\web-apis-tips-tricks\code\repo-pattern\Trailhead.Repos\obj\Debug\netstandard1.4\Trailhead.Repos.AssemblyInfo.cs
