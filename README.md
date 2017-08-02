@@ -1,3 +1,3 @@
-# dotnet-apis
+# Web API Tips, Tricks, and Best Practices
 
-Code and slides from my ".NET Standard: Reuse all the code" talk
+Code and slides from my "Web API Tips, Tricks, and Best Practices" talk
